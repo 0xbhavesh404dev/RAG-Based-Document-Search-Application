@@ -1,0 +1,23 @@
+Company Overview: QuantumNexus Solutions
+Founded: March 15, 2012
+Headquarters: Neo-Veridia City, District 4
+Founders: Dr. Aris Thorne and Elena Rostova
+
+History:
+QuantumNexus Solutions (QNS) began as a university research project at the Veridia Institute of Technology. The founders initially focused on optimizing supply chain logistics using early quantum annealing algorithms. In 2015, they secured $14 million in Series A funding led by Vanguard Horizon Capital, allowing them to pivot towards consumer-level quantum encryption hardware.
+
+Flagship Products:
+1. Q-Shield Router: Released in 2018. The first commercially available router offering quantum-resistant encryption for home networks. It sold over 2 million units globally.
+2. NexusCore Processor: Launched in 2021. An enterprise-level processor designed specifically for handling large-scale cryptographic keys.
+3. Aether-Link Node: Announced in 2025. A satellite-based communication module that creates a localized zero-latency intranet for remote research facilities.
+
+Financial Performance:
+The company saw exponential growth between 2018 and 2022, with peak annual revenue reaching $840 million in 2022. However, the global rare-earth mineral shortage of 2023 severely impacted the production of the NexusCore Processor. Consequently, QNS reported a 22% drop in revenue for the fiscal year 2023, bringing it down to $655 million. By Q3 2025, revenue stabilized around the $710 million mark following the announcement of the Aether-Link Node.
+
+Key Personnel:
+- CEO: Elena Rostova (2012 - Present). Known for her aggressive expansion strategies.
+- Chief Science Officer: Dr. Aris Thorne (2012 - 2024). Dr. Thorne stepped down from active duties in late 2024 citing fundamental disagreements with the board regarding the militarization of the Aether-Link technology. He remains a majority shareholder.
+- VP of Operations: Marcus Vance (2020 - Present).
+
+Controversies:
+In April 2024, an investigative report by the 'Global Tech Monitor' alleged that QuantumNexus had been secretly supplying prototype Aether-Link Nodes to private military contractors operating in the Exilon Sector. While Elena Rostova vehemently denied the claims, stating the nodes were for 'meteorological data relay', the scandal led to a 15% drop in stock price and prompted Dr. Thorne's eventual resignation.
